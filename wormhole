@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+exec docker run \
+  --rm -ti \
+  -v "$(pwd):/app" \
+  -e "SU_UID=$(id -u)" -e "SU_GID=$(id -g)" \
+  floj/magic-wormhole wormhole "$@"
