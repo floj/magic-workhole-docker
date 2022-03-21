@@ -1,3 +1,5 @@
+This is now obsolete, just use https://github.com/psanford/wormhole-william
+
 # magic-wormhole-docker
 <a href="https://github.com/floj/magic-wormhole-docker/blob/master/LICENSE">
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
